@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FBlogin</string>
+    <string name="facebook_app_id">1056587134364609</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="post">投稿</string>
+    <string name="enter_launch_codes">近況をアップデート</string>
+    <string name="launch">テスト</string>
+</resources>
